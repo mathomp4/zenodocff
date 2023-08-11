@@ -4,8 +4,6 @@ authors:
   - family-names: Thompson
     given-names: Matthew
     orcid: https://orcid.org/0000-0001-6222-6863
-title: "mepo fun"
-version: 1.0.6
-date-released: 2021-08-25
-url: "https://github.com/mathomp4/zenodoplay"
+title: "Exploring the use of CFF files and Zenodo"
+url: "https://github.com/mathomp4/zenodocff"
 
