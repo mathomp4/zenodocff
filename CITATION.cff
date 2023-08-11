@@ -4,6 +4,15 @@ authors:
   - family-names: Thompson
     given-names: Matthew
     orcid: https://orcid.org/0000-0001-6222-6863
+  - family-names: Chakraborty
+    given-names: Purnendu
+    orcid: https://orcid.org/0009-0002-7139-779X
+  - family-names: Jamieson
+    given-names: William
+    orcid: https://orcid.org/0000-0001-5976-4492
+  - family-names: Clune
+    given-names: Tom
+    orcid: https://orcid.org/0000-0003-3320-0204
 title: "Exploring the use of CFF files and Zenodo"
 url: "https://github.com/mathomp4/zenodocff"
 
