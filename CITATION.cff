@@ -6,6 +6,7 @@ authors:
   - family-names: Thompson
     given-names: Matthew
     orcid: https://orcid.org/0000-0001-6222-6863
+    affiliation: SSAI/GMAO
   - family-names: Chakraborty
     given-names: Purnendu
     orcid: https://orcid.org/0009-0002-7139-779X
@@ -15,6 +16,12 @@ authors:
   - family-names: Clune
     given-names: Tom
     orcid: https://orcid.org/0000-0003-3320-0204
+    affiliation: NASA
+contact:
+  - family-names: Clune
+    given-names: Tom
+    orcid: https://orcid.org/0000-0003-3320-0204
+    affiliation: NASA
 title: "Exploring the use of CFF files and Zenodo"
-url: "https://github.com/mathomp4/zenodocff"
+repository-code: "https://github.com/mathomp4/zenodocff"
 type: software
